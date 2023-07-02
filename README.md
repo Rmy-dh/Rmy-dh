@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Rümeysa
+## Skills
+💻 Python / C / C++ 
+✏️ I'm currently learning Java at [Patika.dev](https://www.patika.dev/tr)
 
 <!--
 **Rmy-dh/Rmy-dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
