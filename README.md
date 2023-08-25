@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rümeysa
 ## Skills
-💻 Java / JavaScript / SQL /Python / C / C++ <br>
+💻 Java / JavaScript / SQL / Python / C / C++ <br>
 ✏️ I'm currently learning JavaScript and React at [Patika.dev](https://www.patika.dev/tr)
 
 <!--
